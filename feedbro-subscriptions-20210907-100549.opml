@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="CSIS" title="CSIS" type="rss" 
+            xmlUrl="http://116.204.211.45:37090/csis" htmlUrl="https://docs.rsshub.app" entryContent="3"/>
+      <outline text="Brookings" title="Brookings" type="rss" 
+            xmlUrl="https://www.brookings.edu/feed/" htmlUrl="https://www.brookings.edu" entryContent="2"/>
+      <outline text="BBC中文主页" title="BBC中文主页" type="rss" 
+            xmlUrl="https://feeds.bbci.co.uk/zhongwen/simp/rss.xml" htmlUrl="http://www.bbcchinese.com"/>
+      <outline text="BBC主页" title="BBC主页" type="rss" 
+            xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" entryContent="3"/>
+      <outline text="美国大西洋理事会Atlantic Council" title="美国大西洋理事会Atlantic Council" type="rss" 
+            xmlUrl="https://www.atlanticcouncil.org/feed/" htmlUrl="https://www.atlanticcouncil.org" entryContent="2"/>
+      <outline text="自由亚洲电台（中文）" title="自由亚洲电台（中文）" type="rss" 
+            xmlUrl="https://www.rfa.org/mandarin/RSS" htmlUrl="https://www.rfa.org/mandarin"/>
+      <outline text="自由亚洲电台（英文）" title="自由亚洲电台（英文）" type="rss" 
+            xmlUrl="https://www.rfa.org/english/RSS" htmlUrl="https://www.rfa.org/english"/>
+      <outline text="藏人行政中心Central Tibetan Administration" title="藏人行政中心Central Tibetan Administration" type="rss" 
+            xmlUrl="https://tibet.net/feed/" htmlUrl="https://tibet.net" entryContent="3"/>
+      <outline text="观察家研究基金会Observer Research Foundation" title="观察家研究基金会Observer Research Foundation" type="rss" 
+            xmlUrl="https://www.orfonline.org/feed/" htmlUrl="https://www.orfonline.org"/>
+      <outline text="贝尔弗科学与国际事务研究中心Diplomacy and International Politics" title="贝尔弗科学与国际事务研究中心Diplomacy and International Politics" type="rss" 
+            xmlUrl="https://www.belfercenter.org/rss/program/50866/feed" htmlUrl="https://www.belfercenter.org/"/>
+      <outline text="贝尔弗科学与国际事务研究中心Environment and Natural Resources" title="贝尔弗科学与国际事务研究中心Environment and Natural Resources" type="rss" 
+            xmlUrl="https://www.belfercenter.org/rss/program/13911/feed" htmlUrl="https://www.belfercenter.org/"/>
+      <outline text="贝尔弗科学与国际事务研究中心International Security" title="贝尔弗科学与国际事务研究中心International Security" type="rss" 
+            xmlUrl="https://www.belfercenter.org/rss/program/13913/feed" htmlUrl="https://www.belfercenter.org/"/>
+      <outline text="贝尔弗科学与国际事务研究中心Science, Technology, and Public Policy" title="贝尔弗科学与国际事务研究中心Science, Technology, and Public Policy" type="rss" 
+            xmlUrl="https://www.belfercenter.org/rss/program/13912/feed" htmlUrl="https://www.belfercenter.org/"/>
+      <outline text="美国外交关系协会" title="美国外交关系协会" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/up79vs7k4kt4nddp.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+  <outline title="印度战略研究" text="印度战略研究">
+      <outline text="印度战略研究Indian Strategic Studies" title="印度战略研究Indian Strategic Studies" type="rss" 
+            xmlUrl="https://www.blogger.com/feeds/526341401209241053/posts/default" htmlUrl="http://www.strategicstudyindia.com/" entryContent="2"/>
+      <outline text="India" title="India Indian Strategic Studies" type="rss" 
+            xmlUrl="https://www.blogger.com/feeds/526341401209241053/posts/default/-/India" htmlUrl="http://www.strategicstudyindia.com/search/label/India" entryContent="2"/>
+      <outline text="South East Asia" title="South East Asia" type="rss" 
+            xmlUrl="https://www.blogger.com/feeds/526341401209241053/posts/default/-/South%20East%20Asia" htmlUrl="http://www.strategicstudyindia.com/search/label/South%20East%20Asia"/>
+      <outline text="China" title="China" type="rss" 
+            xmlUrl="https://www.blogger.com/feeds/526341401209241053/posts/default/-/China" htmlUrl="http://www.strategicstudyindia.com/search/label/China"/>
+      <outline text="Important Papers" title="Important Papers" type="rss" 
+            xmlUrl="https://www.blogger.com/feeds/526341401209241053/posts/default/-/Important%20Papers" htmlUrl="http://www.strategicstudyindia.com/search/label/Important%20Papers"/>
+  </outline>
+  <outline title="西藏" text="西藏">
+      <outline text="藏人行政管理中心 Central Tibetan Administration" title="藏人行政管理中心 Central Tibetan Administration" type="rss" 
+            xmlUrl="http://116.204.211.45:37090/tibet" htmlUrl="https://tibet.net" entryContent="2"/>
+      <outline text="西藏之声 VOT" title="西藏之声 VOT" type="rss" 
+            xmlUrl="http://116.204.211.45:37090/vot" htmlUrl="https://cn.vot.org" entryContent="2"/>
+  </outline>
+</body>
+</opml>
